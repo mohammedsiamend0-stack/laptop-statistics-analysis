@@ -1,0 +1,751 @@
+Company,Type,Screen (in),CPU,RAM,OS,Launch Year,Price (USD)
+Apple,MacBook Pro,13.3,Intel Core i5-5257U 2.3GHz,8GB,macOS,2015,856.54
+Apple,MacBook Air,13.3,Intel Core i5-5350U 1.8GHz,8GB,macOS,2016,574.75
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,No OS,2017,367.63
+Apple,MacBook Pro,15.4,Intel Core i7-4770HQ 2.7GHz,16GB,macOS,2015,1622.34
+Apple,MacBook Pro,13.3,Intel Core i5-7267U 3.1GHz,8GB,macOS,2017,1153.15
+Acer,Notebook,15.6,AMD A9-9420 3.0GHz,4GB,Windows 10,2017,255.74
+Apple,MacBook Pro,15.4,Intel Core i7-6700HQ 2.6GHz,16GB,macOS,2016,1368.21
+Apple,MacBook Air,13.3,Intel Core i5-5350U 1.8GHz,8GB,macOS,2016,740.83
+Asus,Ultrabook,14,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,955.84
+Acer,Ultrabook,14,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,492.31
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,No OS,2017,251.84
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,No OS,2016,220.57
+Apple,MacBook Pro,15.4,Intel Core i7-6700HQ 2.6GHz,16GB,macOS,2016,1560.02
+Dell,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,318.98
+Apple,MacBook,12,Intel Core m3-6Y30 1.1GHz,8GB,macOS,2016,807.13
+Apple,MacBook Pro,13.3,Intel Core i5-5257U 2.3GHz,8GB,macOS,2015,970.9
+Dell,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,476.32
+Apple,MacBook Pro,15.4,Intel Core i7-6920HQ 2.9GHz,16GB,macOS,2016,1827.29
+Lenovo,Notebook,15.6,Intel Core i3-7100U 2.4GHz,8GB,No OS,2017,319.04
+Dell,Ultrabook,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,625.93
+Asus,Netbook,11.6,Intel Atom x5-Z8350 1.44GHz,2GB,Windows 10,2018,122.69
+Lenovo,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,638.72
+HP,Notebook,15.6,AMD E-Series E2-9000e 1.5GHz,4GB,No OS,2016,164.95
+Dell,2-in-1 Convertible,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,523.64
+HP,Ultrabook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,421.34
+Dell,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,267.66
+Apple,MacBook Air,13.3,Intel Core i5-5250U 1.6GHz,8GB,macOS,2016,702.66
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,511.49
+Dell,Ultrabook,15.6,Intel Core i7-8650U 1.9GHz,8GB,Windows 10,2018,829.89
+HP,Notebook,17.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,572.87
+Chuwi,Notebook,15.6,Intel Atom x5-Z8300 1.44GHz,4GB,Windows 10,2018,156.64
+Asus,Notebook,14,AMD E-Series E2-6110 1.5GHz,2GB,Windows 10,2016,127.23
+HP,Notebook,17.3,AMD A6-9220 2.5GHz,4GB,Windows 10,2017,280.68
+Dell,Ultrabook,13.3,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,1194.96
+Apple,MacBook Air,13.3,Intel Core i5-5250U 1.6GHz,8GB,macOS,2016,638.08
+Lenovo,Notebook,14,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,159.2
+Acer,Notebook,15.6,Intel Core i3-7130U 2.7GHz,4GB,Linux,2017,234.65
+Dell,Notebook,17.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,625.93
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,312.45
+HP,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,562
+Asus,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Linux,2016,248.71
+Dell,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,958.4
+Asus,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Linux,2017,334.38
+Acer,Notebook,15.6,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,436.04
+Dell,2-in-1 Convertible,17.3,Intel Core i5-8250U 1.6GHz,12GB,Windows 10,2018,638.72
+Apple,MacBook Pro,13.3,Intel Core i5-6360U 2.0GHz,8GB,macOS,2016,907.25
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,No OS,2016,235.92
+Asus,Gaming,17.3,AMD Ryzen 1700 3GHz,8GB,Windows 10,2018,830.53
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,408.55
+Asus,Notebook,17.3,Intel Pentium N4200 1.1GHz,4GB,Windows 10,2016,297.94
+Lenovo,2-in-1 Convertible,10.1,Intel Atom x5-Z8550 1.44GHz,4GB,Windows 10,2018,203.96
+Acer,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,537.7
+HP,Notebook,15.6,AMD A6-9220 2.5GHz,4GB,Windows 10,2017,254.78
+HP,Notebook,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,705.21
+Acer,Notebook,15.6,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,245.51
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,490.9
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,280.68
+Asus,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,374.79
+MSI,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1565.79
+Asus,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Linux,2016,265.33
+Dell,Notebook,17.3,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,830.53
+Dell,Ultrabook,14,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,562
+Lenovo,Notebook,14,Intel Core i3-7130U 2.7GHz,8GB,No OS,2017,382.98
+Asus,Notebook,14,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,601.64
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,441.16
+Asus,Ultrabook,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1267.85
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,280.48
+HP,Notebook,14,Intel Celeron N3060 1.6GHz,4GB,Windows 10,2016,146.41
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,351.01
+Asus,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,12GB,Linux,2017,606.75
+Microsoft,Ultrabook,13.5,Intel Core i5-7200U 2.5GHz,4GB,Windows 10 S,2017,696.26
+Dell,Ultrabook,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,610.59
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,556.24
+MSI,Gaming,17.3,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,700.1
+Acer,Notebook,14,Intel Core i3-6006U 2.0GHz,8GB,Windows 10,2016,248.71
+Asus,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,606.75
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,No OS,2017,331.83
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,546.65
+Acer,Notebook,15.6,Intel Core i3-7130U 2.7GHz,4GB,Windows 10,2017,338.86
+HP,Notebook,17.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,624.65
+Dell,Ultrabook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,700.84
+Apple,MacBook,12,Intel Core i5-6Y54 1.2GHz,8GB,macOS,2016,965.43
+HP,Notebook,14,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,549.85
+Lenovo,Notebook,15.6,AMD A6-9220 2.5GHz,4GB,Windows 10,2017,255.1
+Acer,Notebook,15.6,AMD A9-9420 3.0GHz,4GB,Windows 10,2017,252.55
+Dell,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,862.5
+HP,Ultrabook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,446.91
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,382.97
+Asus,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,926.43
+Dell,Ultrabook,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,1054.3
+Asus,Gaming,15.6,AMD FX 9830P 3GHz,8GB,Windows 10,2016,446.91
+Acer,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,440.52
+HP,Notebook,13.3,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,765.31
+Dell,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,764.04
+Asus,Ultrabook,14,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,670.69
+Acer,2-in-1 Convertible,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,541.54
+Dell,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Linux,2017,383.55
+Dell,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Linux,2016,310.09
+Asus,Notebook,15.6,Intel Core i3-7100U 2.4GHz,6GB,Windows 10,2017,368.91
+HP,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,12GB,Windows 10,2017,798.56
+HP,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,459.7
+HP,Notebook,15.6,AMD E-Series E2-9000e 1.5GHz,4GB,Windows 10,2016,223.14
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Linux,2018,413.67
+HP,Ultrabook,13.3,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,715.44
+Microsoft,Ultrabook,13.5,Intel Core i5-7200U 2.5GHz,8GB,Windows 10 S,2017,856.74
+HP,Notebook,14,Intel Core i5-7200U 2.5GHz,6GB,Windows 10,2017,421.34
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,265.27
+Asus,Ultrabook,14,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,762.76
+MSI,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,830.53
+Lenovo,Notebook,14,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,946.25
+Asus,Ultrabook,15.6,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,806.87
+Dell,Ultrabook,13.3,Intel Core i7-7560U 2.4GHz,8GB,Windows 10,2017,881.68
+Lenovo,2-in-1 Convertible,13.3,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,894.46
+HP,Notebook,14,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,461.62
+Dell,Ultrabook,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,1041.52
+HP,2-in-1 Convertible,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,894.46
+HP,Notebook,14,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,693.07
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,722.69
+Asus,Notebook,17.3,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,360.6
+Asus,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,714.8
+Acer,Notebook,15.6,Intel Core i3-7100U 2.4GHz,6GB,Windows 10,2017,306.25
+MSI,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1433.13
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,No OS,2017,402.16
+HP,Notebook,17.3,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,812.63
+Acer,Notebook,15.6,AMD A9-9420 3.0GHz,4GB,Windows 10,2017,288.35
+HP,Notebook,15.6,Intel Celeron N3060 1.6GHz,4GB,No OS,2016,165.59
+HP,Notebook,14,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,519.16
+Asus,Notebook,14,AMD E-Series 6110 1.5GHz,4GB,Windows 10 S,2016,177.74
+Dell,Notebook,17.3,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,892.55
+HP,Notebook,17.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,593.33
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,408.54
+Dell,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,287.07
+Acer,Ultrabook,14,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,565.19
+Acer,Notebook,15.6,Intel Core i3-7130U 2.7GHz,4GB,Windows 10,2017,365.71
+HP,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,382.34
+HP,Notebook,14,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,631.69
+Lenovo,Notebook,15.6,Intel Celeron N3350 1.1GHz,4GB,No OS,2016,161.35
+Asus,Gaming,17.3,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,599.72
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,No OS,2017,319.04
+HP,Notebook,13.3,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,446.91
+Acer,Notebook,17.3,Intel Core i3-7130U 2.7GHz,4GB,Windows 10,2017,418.78
+Lenovo,Notebook,14,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,713.54
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,No OS,2017,555.6
+Toshiba,Notebook,15.6,Intel Core i5-6200U 2.3GHz,4GB,Windows 10,2016,384.89
+HP,Notebook,15.6,AMD A6-9220 2.5GHz,4GB,Windows 10,2017,235.92
+Asus,Ultrabook,14,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,702.66
+HP,Ultrabook,12.5,Intel Core m5-6Y54 1.1GHz,8GB,Windows 10,2016,1287.67
+Asus,Notebook,15.6,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,219.94
+MSI,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1297.26
+Acer,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,285.79
+Dell,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,798.73
+Dell,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,574.78
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,318.4
+MSI,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1208.39
+HP,Ultrabook,14,Intel Core i5-7500U 2.7GHz,4GB,Windows 10,2017,691.79
+HP,Notebook,15.6,Intel Core i5-8250U 1.6GHz,6GB,Windows 10,2018,395.76
+Lenovo,2-in-1 Convertible,14,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,402.16
+Asus,2-in-1 Convertible,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,840.76
+Dell,2-in-1 Convertible,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,670.69
+Toshiba,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,285.79
+Asus,Notebook,15.6,AMD A9-9420 3.0GHz,4GB,Windows 10,2017,257.66
+Acer,Notebook,17.3,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,514.68
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,465.45
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,689.87
+Acer,Notebook,15.6,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,222.5
+MSI,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1150.21
+Acer,Notebook,15.6,Intel Pentium N4200 1.1GHz,4GB,Windows 10,2016,232.41
+Dell,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,678.03
+Acer,Notebook,17.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,546.01
+HP,Notebook,13.3,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,482.08
+Huawei,Ultrabook,13,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,862.5
+HP,Notebook,17.3,Intel Core i5-7200U 2.5GHz,6GB,Windows 10,2017,446.91
+Lenovo,Notebook,15.6,AMD A6-9220 2.5GHz,4GB,No OS,2017,197.56
+Toshiba,Notebook,15.6,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,312.65
+HP,Notebook,17.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,590.13
+Dell,Notebook,15.6,Intel Core i3-7100U 2.4GHz,8GB,Windows 10,2017,293.47
+Acer,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,287.07
+MSI,Gaming,18.4,Intel Core i7-6920HQ 2.9GHz,32GB,Windows 10,2016,1789.57
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,519.8
+HP,2-in-1 Convertible,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,958.4
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,16GB,Linux,2018,670.69
+Dell,Ultrabook,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,894.46
+Lenovo,2-in-1 Convertible,13.9,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,1182.18
+Toshiba,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,507.01
+Xiaomi,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,No OS,2018,766.59
+Dell,Notebook,17.3,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,990.37
+Dell,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1532.55
+Lenovo,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,No OS,2017,498.06
+Acer,Ultrabook,13.3,Intel Core i5-7Y54 1.2GHz,8GB,Windows 10,2016,632.33
+Dell,Notebook,17.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,693.71
+Lenovo,2-in-1 Convertible,14,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,1805.55
+Vero,Notebook,14,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,166.23
+Xiaomi,Ultrabook,13.3,Intel Core i5-7200U 2.5GHz,8GB,No OS,2017,639.3
+Lenovo,Notebook,17.3,Intel Core i5-8250U 1.6GHz,8GB,No OS,2018,446.27
+Dell,2-in-1 Convertible,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,536.42
+HP,Notebook,17.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,584.38
+Razer,Gaming,17.3,Intel Core i7-7820HK 2.9GHz,32GB,Windows 10,2017,3899.46
+HP,Notebook,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,613.15
+HP,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,881.68
+HP,Notebook,17.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,668.13
+Dell,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1179.62
+Lenovo,Notebook,15.6,Intel Core i5-6200U 2.3GHz,4GB,Windows 10,2016,315.2
+Acer,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,474.41
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1118.24
+Dell,Workstation,15.6,Intel Xeon E3-1505M V6 3GHz,16GB,Windows 10,2016,1953.24
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,No OS,2017,893.83
+Dell,Notebook,15.6,Intel Core i3-7100U 2.4GHz,6GB,Windows 10,2017,280.68
+Dell,Ultrabook,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,1246.11
+Dell,Ultrabook,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,926.43
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,381.7
+Acer,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Linux,2017,498.06
+Asus,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,899.58
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,No OS,2016,223.14
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,No OS,2017,351.01
+Huawei,Ultrabook,13,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,958.4
+Dell,Ultrabook,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,595.81
+Lenovo,Notebook,17.3,Intel Core i5-7200U 2.5GHz,8GB,No OS,2017,376.58
+HP,Notebook,14,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,659.18
+Dell,Ultrabook,14,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,734.62
+Dell,2-in-1 Convertible,13.3,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,817.74
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Linux,2018,433.07
+Lenovo,2-in-1 Convertible,14,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,574.78
+Toshiba,Ultrabook,13.3,Intel Core i7-6500U 2.5GHz,8GB,Windows 10,2016,871.45
+HP,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,507.65
+Dell,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1570.49
+Acer,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,531.95
+Dell,Notebook,15.6,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,549.22
+Asus,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,491.67
+Asus,Notebook,17.3,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,569.67
+HP,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,811.35
+Asus,Notebook,15.6,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,255.1
+HP,Notebook,15.6,AMD E-Series 9000e 1.5GHz,4GB,Windows 10,2016,210.99
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,958.4
+Dell,Notebook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,549.21
+Acer,2-in-1 Convertible,13.3,Intel Core i5-6200U 2.3GHz,8GB,Windows 10,2016,440.52
+Dell,Notebook,15.6,Intel Core i7-7500U 2.7GHz,16GB,Linux,2017,574.78
+Acer,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Linux,2016,249.35
+Asus,Notebook,15.6,AMD A10-Series A10-9620P 2.5GHz,4GB,Windows 10,2017,367.63
+Asus,Gaming,17.3,Intel Core i7-7820HK 2.9GHz,32GB,Windows 10,2017,2487.11
+Acer,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,540.9
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,8GB,Windows 10,2016,376.58
+Asus,Notebook,17.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,732.07
+Asus,Notebook,17.3,Intel Core i7-7500U 2.7GHz,8GB,No OS,2017,568.39
+Dell,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,562
+Lenovo,2-in-1 Convertible,13.9,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,689.87
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,629.77
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,357.4
+Asus,Gaming,17.3,Intel Core i7-7820HK 2.9GHz,16GB,Windows 10,2017,1917.44
+HP,Notebook,13.3,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,431.57
+Apple,MacBook Pro,13.3,Intel Core i5-7267U 3.1GHz,8GB,macOS,2017,1304.29
+Dell,2-in-1 Convertible,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,523.64
+Asus,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1150.21
+Asus,Notebook,15.6,AMD A9-9420 3.0GHz,4GB,Windows 10,2017,299.86
+Lenovo,2-in-1 Convertible,13.9,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,1182.18
+Acer,Notebook,17.3,Intel Core i3-7130U 2.7GHz,4GB,Windows 10,2017,448.83
+Dell,Ultrabook,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,606.75
+HP,Notebook,15.6,AMD A6-Series A6-9220 2.5GHz,8GB,Windows 10,2017,285.09
+HP,Notebook,17.3,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,677.08
+MSI,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1597.76
+Lenovo,2-in-1 Convertible,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1086.27
+Dell,Notebook,17.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,730.15
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,No OS,2016,283.88
+HP,Notebook,15.6,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,461.62
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,420.06
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,361.24
+Dell,2-in-1 Convertible,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,510.85
+Asus,2-in-1 Convertible,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,958.4
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,No OS,2017,298.58
+HP,Notebook,17.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,650.87
+Lenovo,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,562.64
+Apple,MacBook Pro,13.3,Intel Core i5-6267U 2.9GHz,8GB,macOS,2016,1252.44
+Asus,Gaming,17.3,AMD Ryzen 1700 3GHz,16GB,Windows 10,2018,990.37
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Linux,2018,469.97
+Lenovo,2-in-1 Convertible,14,Intel Core i7-6600U 2.6GHz,16GB,Windows 10,2016,1597.76
+Toshiba,Notebook,15.6,Intel Core i7-6500U 2.5GHz,8GB,Windows 10,2016,519.16
+Dell,Notebook,15.6,Intel Core i7-7500U 2.7GHz,12GB,Windows 10,2017,455.91
+Dell,Notebook,17.3,Intel Core i7-8550U 1.8GHz,8GB,Linux,2018,702.66
+Acer,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,476.32
+Lenovo,Notebook,17.3,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,312.65
+Lenovo,Notebook,17.3,Intel Core i7-8550U 1.8GHz,8GB,No OS,2018,542.82
+Lenovo,Notebook,17.3,Intel Core i7-7500U 2.7GHz,6GB,Windows 10,2017,549.21
+Dell,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Linux,2016,273.65
+Lenovo,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,530.03
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,6GB,Windows 10,2017,370.19
+Acer,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,608.03
+Acer,Notebook,15.6,Intel Core i7-7500U 2.7GHz,12GB,Windows 10,2017,421.34
+Lenovo,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,701.38
+Asus,Ultrabook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,624.65
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,753.81
+Lenovo,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,No OS,2017,421.34
+Acer,Notebook,15.6,Intel Celeron Dual Core 3205U 1.5GHz,2GB,Chrome OS,2016,127.23
+Asus,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,758.92
+HP,Notebook,17.3,Intel Core i3-6006U 2.0GHz,8GB,Windows 10,2016,312.65
+Dell,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1169.39
+Lenovo,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,472.49
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,830.53
+Acer,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Linux,2017,625.93
+Dell,Workstation,17.3,Intel Core i7-7820HQ 2.9GHz,16GB,Windows 10,2017,1844.46
+Lenovo,Notebook,15.6,AMD A10-Series 9600P 2.4GHz,6GB,Windows 10,2017,319.04
+Asus,Ultrabook,15.6,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,938.58
+Asus,Notebook,14,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,325.43
+Asus,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1356.72
+Lenovo,Notebook,17.3,Intel Core i5-7200U 2.5GHz,6GB,Windows 10,2017,414.94
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,No OS,2017,351.01
+Asus,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,808.79
+Lenovo,Notebook,15.6,Intel Pentium N4200 1.1GHz,4GB,No OS,2016,230.16
+HP,2-in-1 Convertible,13.3,Intel Core i7-7600U 2.8GHz,16GB,Windows 10,2017,1262.74
+Toshiba,Notebook,15.6,Intel Core i7-6500U 2.5GHz,8GB,Windows 10,2016,666.85
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,523.64
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,299.86
+Lenovo,Notebook,13.3,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,638.72
+Dell,Ultrabook,13.3,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,1597.76
+MSI,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1342.02
+Acer,Notebook,15.6,AMD A8-Series 7410 2.2GHz,8GB,Windows 10,2017,299.86
+Asus,2-in-1 Convertible,11.6,Intel Celeron N3350 1.1GHz,2GB,Windows 10,2016,175.82
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,539.62
+HP,2-in-1 Convertible,13.3,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,1565.79
+Lenovo,Notebook,13.3,Intel Celeron Dual Core 3855U 1.6GHz,4GB,Chrome OS,2016,294.04
+HP,Notebook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,626.57
+Acer,Notebook,11.6,Intel Pentium Quad Core N3710 1.6GHz,4GB,Windows 10,2016,310.09
+HP,Notebook,14,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,826.05
+Lenovo,Notebook,17.3,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,376.58
+Asus,Notebook,14,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,699.46
+HP,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,576.7
+Acer,Notebook,15.6,AMD A12-9720P 2.7GHz,8GB,Windows 10,2017,421.34
+Lenovo,Notebook,14,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,186.69
+Acer,Notebook,15.6,Intel Core i5-7200U 2.5GHz,6GB,Windows 10,2017,351.01
+Asus,Ultrabook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,671.26
+HP,Ultrabook,12.5,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,853.55
+Dell,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,32GB,Windows 10,2017,1687.27
+MSI,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,766.59
+Toshiba,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,602.92
+Asus,Notebook,14,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,852.91
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,287.07
+Asus,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,638.72
+HP,Notebook,14,Intel Core i5-7300U 2.6GHz,8GB,Windows 10,2017,810.71
+Dell,Ultrabook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,670.69
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,731.43
+Asus,Notebook,15.6,Intel Celeron N3350 1.1GHz,4GB,Linux,2016,175.82
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,730.63
+Dell,Notebook,15.6,Intel Celeron N3060 1.6GHz,4GB,Linux,2016,175.76
+Lenovo,Notebook,15.6,AMD A12-9720P 2.7GHz,12GB,Windows 10,2017,574.78
+HP,Notebook,15.6,Intel Core i3-7100U 2.4GHz,8GB,Windows 10,2017,457.78
+Lenovo,2-in-1 Convertible,13.9,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,1342.02
+Dell,Ultrabook,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,1009.55
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,721.84
+HP,Notebook,14,Intel Celeron N3060 1.6GHz,2GB,Windows 10,2016,178.38
+Dell,Ultrabook,15.6,Intel Core i7-8650U 1.9GHz,16GB,Windows 10,2018,1028.07
+Asus,2-in-1 Convertible,11.6,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,239.76
+Dell,Ultrabook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,423.9
+Dell,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1296.25
+HP,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,833.73
+MSI,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,900.86
+HP,Workstation,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1111.38
+Toshiba,Notebook,15.6,Intel Core i7-6500U 2.5GHz,16GB,Windows 10,2016,897.02
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,620.75
+Lenovo,Notebook,15.6,Intel Celeron N3350 1.1GHz,4GB,No OS,2016,205.87
+Dell,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,638.72
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,356.36
+Dell,Notebook,14,Intel Core i5-7300U 2.6GHz,8GB,Windows 10,2017,912.37
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,280.68
+Asus,Notebook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,604.2
+Lenovo,Notebook,17.3,Intel Core i5-7200U 2.5GHz,6GB,Windows 10,2017,459.7
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,408.55
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,8GB,No OS,2016,319.04
+HP,Notebook,15.6,Intel Pentium Quad Core N3710 1.6GHz,8GB,Windows 10,2016,248.71
+Dell,Notebook,17.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,693.71
+Lenovo,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,No OS,2017,517.24
+Dell,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,574.78
+HP,Ultrabook,14,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,1118.88
+Asus,2-in-1 Convertible,15.6,Intel Core i7-7500U 2.7GHz,12GB,Windows 10,2017,702.66
+Acer,Notebook,15.6,AMD A9-9420 3.0GHz,4GB,Windows 10,2017,272.37
+Asus,Gaming,17.3,AMD Ryzen 1700 3GHz,16GB,Windows 10,2018,1405.95
+Lenovo,Notebook,17.3,AMD A8-Series 7410 2.2GHz,4GB,Windows 10,2017,312.65
+Dell,2-in-1 Convertible,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,555.61
+HP,Notebook,15.6,AMD A9-9420 3.0GHz,4GB,Windows 10,2017,312.64
+Lenovo,Netbook,11.6,Intel Celeron N3450 1.1GHz,4GB,Windows 10,2016,353.57
+Dell,Notebook,15.6,Intel Celeron N3060 1.6GHz,4GB,Windows 10,2016,197.56
+Asus,Notebook,14,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,182.86
+Acer,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Linux,2017,540.9
+HP,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,761.48
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,No OS,2016,257.98
+Asus,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1058.14
+Lenovo,Notebook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,702.66
+Asus,Ultrabook,13.3,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,1118.18
+Lenovo,Ultrabook,14,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,1459.02
+Lenovo,Notebook,13.3,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,351.01
+Dell,Workstation,15.6,Intel Core i5-6440HQ 2.6GHz,8GB,Windows 10,2016,875.28
+Dell,Workstation,15.6,Intel Core i7-6820HQ 2.7GHz,8GB,Windows 10,2016,1365.03
+Lenovo,2-in-1 Convertible,14,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,1604.15
+Asus,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,664.3
+Asus,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1017.22
+Acer,Notebook,15.6,Intel Core i5-8250U 1.6GHz,12GB,Windows 10,2018,443.71
+MSI,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,862.5
+Dell,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Linux,2017,497.98
+HP,Ultrabook,15.6,AMD A9-9420 3.0GHz,4GB,Windows 10,2017,319.04
+Lenovo,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,786.13
+Lenovo,Notebook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,599.72
+Dell,Workstation,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1733.94
+Lenovo,Ultrabook,14,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,1678.32
+Lenovo,Notebook,15.6,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,195.64
+Asus,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,977.58
+Lenovo,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,731.75
+Acer,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Linux,2017,562
+MSI,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1437.92
+Asus,Ultrabook,14,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,1197.52
+Toshiba,Ultrabook,13.3,Intel Core i7-6500U 2.5GHz,16GB,Windows 10,2016,1116.96
+Dell,Ultrabook,14,Intel Core i7-7600U 2.8GHz,8GB,Windows 10,2017,1074.12
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,261.5
+Lenovo,Notebook,11.6,Intel Celeron N3350 1.1GHz,2GB,Windows 10,2016,194.65
+Lenovo,Workstation,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1230.77
+Lenovo,Ultrabook,14,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1242.28
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,299.86
+Acer,2-in-1 Convertible,13.3,Intel Core i7-6500U 2.5GHz,8GB,Windows 10,2016,504.46
+Asus,2-in-1 Convertible,13.3,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,593.33
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Linux,2017,382.91
+Dell,Notebook,13.3,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,440.52
+HP,Ultrabook,14,Intel Core i7-6500U 2.5GHz,8GB,Windows 10,2016,959.04
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,345.22
+Lenovo,Ultrabook,14,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,777.07
+Lenovo,2-in-1 Convertible,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1214.14
+Chuwi,Notebook,12.3,Intel Celeron N3450 1.1GHz,6GB,Windows 10,2016,287.07
+HP,Notebook,15.6,Intel Core i7-7820HQ 2.9GHz,8GB,Windows 10,2017,912.37
+Asus,Notebook,15.6,Intel Core i3-7100U 2.4GHz,8GB,Linux,2017,381.7
+Dell,Gaming,17.3,Intel Core i7-7820HK 2.9GHz,16GB,Windows 10,2017,1789.57
+Dell,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,741.02
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,730.4
+Dell,Ultrabook,14,Intel Core i7-7600U 2.8GHz,8GB,Linux,2017,702.66
+HP,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,12GB,Windows 10,2017,1278.08
+Mediacom,2-in-1 Convertible,11.6,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,191.17
+Samsung,Netbook,11.6,Intel Celeron N3060 1.6GHz,4GB,Chrome OS,2016,171.99
+Lenovo,Notebook,13.3,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,645.75
+Lenovo,Notebook,14,Intel Core i3-7130U 2.7GHz,4GB,Windows 10,2017,382.98
+Lenovo,Workstation,15.6,Intel Core i7-7600U 2.8GHz,16GB,Windows 10,2017,1563.24
+Lenovo,Notebook,15.6,Intel Core i7-7820HQ 2.9GHz,16GB,Windows 10,2017,1565.79
+Asus,Gaming,17.3,AMD Ryzen 1600 3.2GHz,8GB,Windows 10,2018,1083.72
+HP,Notebook,15.6,Intel Celeron N3060 1.6GHz,4GB,Windows 10,2016,221.86
+Google,Ultrabook,12.3,Intel Core i7-7Y75 1.3GHz,16GB,Chrome OS,2016,1405.95
+Lenovo,Ultrabook,14,Intel Core i7-7500U 2.7GHz,24GB,Windows 10,2017,1522.96
+Asus,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Linux,2017,357.4
+Lenovo,Notebook,17.3,AMD A6-9220 2.5GHz,8GB,Windows 10,2017,331.83
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,478.88
+Lenovo,Ultrabook,12.5,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,913.65
+Lenovo,Notebook,15.6,Intel Pentium N4200 1.1GHz,4GB,Windows 10,2016,223.14
+HP,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,702.66
+Dell,Notebook,14,Intel Core i5-7440HQ 2.8GHz,8GB,Windows 10,2017,753.81
+Acer,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Linux,2017,282.47
+Dell,Workstation,15.6,Intel Xeon E3-1505M V6 3GHz,8GB,Windows 10,2016,1274.24
+MSI,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,657.1
+Microsoft,Ultrabook,13.5,Intel Core i7-7660U 2.5GHz,16GB,Windows 10 S,2017,1655.3
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,376.58
+Dell,Workstation,15.6,Intel Core i7-6820HQ 2.7GHz,16GB,Windows 10,2016,1262.74
+HP,Workstation,15.6,Intel Core i7-7820HQ 2.9GHz,8GB,Windows 10,2017,980.78
+Lenovo,Notebook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,859.94
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,625.93
+Dell,2-in-1 Convertible,11.6,Intel Pentium Quad Core N3710 1.6GHz,4GB,Windows 10,2016,306.25
+Dell,Notebook,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1308.13
+Microsoft,Ultrabook,13.5,Intel Core m3-7Y30 1.0GHz,4GB,Windows 10 S,2016,632.33
+Microsoft,Ultrabook,13.5,Intel Core i7-7660U 2.5GHz,8GB,Windows 10 S,2017,1150.21
+HP,Notebook,17.3,Intel Core i3-6006U 2.0GHz,8GB,Windows 10,2016,409.13
+Acer,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,347.81
+Acer,Netbook,11.6,Intel Celeron N3060 1.6GHz,4GB,Windows 10,2016,278.12
+Asus,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,478.88
+Lenovo,Notebook,14,Intel Core i7-7500U 2.7GHz,8GB,No OS,2017,510.85
+Lenovo,Notebook,15.6,Intel Core i7-7820HQ 2.9GHz,8GB,Windows 10,2017,1336.26
+Asus,Notebook,15.6,Intel Pentium N4200 1.1GHz,4GB,Windows 10,2016,194.37
+Acer,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,299.86
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,485.27
+HP,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,12GB,Windows 10,2017,1086.27
+Lenovo,Ultrabook,14,Intel Core i7-6600U 2.6GHz,12GB,Windows 10,2016,1187.93
+HP,2-in-1 Convertible,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,1278.08
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,737.82
+Google,Ultrabook,12.3,Intel Core i5-7Y57 1.2GHz,8GB,Chrome OS,2016,815.18
+Dell,Ultrabook,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,1177.61
+Asus,Notebook,15.6,Intel Core i7-6700HQ 2.6GHz,12GB,Windows 10,2016,830.53
+Dell,Notebook,14,Intel Core i3-6100U 2.3GHz,8GB,Windows 10,2016,473.13
+Dell,Workstation,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1539.58
+Lenovo,Notebook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,872.09
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,431.57
+Toshiba,Notebook,13.3,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,1069.01
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,806.87
+Dell,Notebook,15.6,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,375.05
+HP,Notebook,13.3,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,464.18
+Chuwi,Notebook,15.6,Intel Atom x5-Z8350 1.44GHz,4GB,Windows 10,2018,159.14
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,361.24
+Lenovo,Notebook,14,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,670.69
+Dell,Workstation,15.6,Intel Core i7-6820HQ 2.7GHz,16GB,Windows 10,2016,1494.82
+Dell,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1214.14
+Lenovo,Ultrabook,12.5,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,1149.57
+Asus,Ultrabook,12.5,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,1246.75
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,647.03
+Toshiba,Ultrabook,13.3,Intel Core i7-7500U 2.7GHz,32GB,Windows 10,2017,1789.57
+Asus,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,863.14
+Acer,Notebook,15.6,AMD A10-Series 9620P 2.5GHz,8GB,Windows 10,2017,370.19
+Asus,Gaming,17.3,Intel Core i7-6700HQ 2.6GHz,24GB,Windows 10,2016,811.35
+Lenovo,Ultrabook,12.5,Intel Core i5-6200U 2.3GHz,8GB,Windows 10,2016,702.66
+Lenovo,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,574.72
+HP,Notebook,14,Intel Core i7-7600U 2.8GHz,8GB,Windows 10,2017,1118.24
+Lenovo,Notebook,13.3,Intel Core i3-7100U 2.4GHz,8GB,Windows 10,2017,606.75
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,582.46
+Asus,Netbook,11.6,Intel Celeron N3350 1.1GHz,4GB,Windows 10 S,2016,217.38
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,395.76
+Lenovo,2-in-1 Convertible,13.9,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,1022.34
+Lenovo,Notebook,14,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,191.17
+Lenovo,Netbook,11.6,Intel Celeron N3060 1.6GHz,4GB,Chrome OS,2016,169.43
+Lenovo,Notebook,13.3,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,606.75
+Asus,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,782.58
+Acer,Notebook,15.6,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,391.93
+HP,Ultrabook,13.3,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,845.87
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,No OS,2017,734.62
+Dell,Ultrabook,13.3,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,574.78
+Acer,Notebook,15.6,Intel Core i7-7500U 2.7GHz,4GB,Windows 10,2017,408.55
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,534.5
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,779.53
+Xiaomi,Notebook,15.6,Intel Core i7-8550U 1.8GHz,16GB,No OS,2018,895.07
+Asus,Netbook,11.6,Intel Celeron N3350 1.1GHz,2GB,Windows 10,2016,156.64
+HP,Notebook,15.6,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,333.41
+Asus,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,24GB,Windows 10,2017,1897.62
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,568.39
+Asus,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,961.6
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,894.46
+HP,Ultrabook,13.3,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,894.46
+Dell,Notebook,14,Intel Core i5-7300U 2.6GHz,8GB,Windows 10,2017,818.21
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,440.52
+Dell,Notebook,17.3,Intel Core i5-8250U 1.6GHz,8GB,Linux,2018,568.39
+Lenovo,Notebook,14,Intel Core i5-6200U 2.3GHz,8GB,Windows 7,2016,856.74
+Lenovo,Notebook,15.6,Intel Core i7-7500U 2.7GHz,4GB,Windows 10,2017,510.85
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,8GB,No OS,2016,293.47
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,374.03
+Dell,Notebook,15.6,Intel Core i5-7440HQ 2.8GHz,8GB,Windows 10,2017,880.4
+Dell,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1926.24
+Toshiba,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,549.85
+Asus,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,830.53
+Mediacom,Notebook,13.3,Intel Celeron N3450 1.1GHz,4GB,Windows 10,2016,235.92
+Asus,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,1054.3
+Dell,Notebook,15.6,Intel Core i7-7600U 2.8GHz,8GB,Windows 10,2017,875.28
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,509.83
+HP,Notebook,15.6,Intel Pentium Quad Core N3710 1.6GHz,4GB,Windows 10,2016,255.1
+HP,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,12GB,Windows 10,2017,1150.21
+Lenovo,Notebook,14,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,549.21
+Dell,Ultrabook,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,894.46
+Dell,Notebook,14,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,470.49
+HP,Ultrabook,13.3,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,732.07
+Acer,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Linux,2017,510.21
+Asus,Notebook,15.6,AMD E-Series 7110 1.8GHz,4GB,Windows 10,2017,223.14
+HP,Notebook,15.6,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,451.07
+Lenovo,Notebook,14,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,501.9
+Lenovo,Notebook,15.6,Intel Core i5-6200U 2.3GHz,4GB,No OS,2016,295.61
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,253.83
+Lenovo,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,1105.45
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,319.04
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,714.16
+Dell,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1725.63
+HP,Notebook,17.3,Intel Core i3-6006U 2.0GHz,8GB,Windows 10,2016,347.91
+HP,Notebook,17.3,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,818.38
+Asus,Notebook,15.6,Intel Celeron N3350 1.1GHz,4GB,Linux,2016,143.22
+Mediacom,Notebook,13.3,Intel Atom x5-Z8350 1.44GHz,4GB,Windows 10,2018,163.04
+Lenovo,Notebook,17.3,Intel Core i7-7500U 2.7GHz,6GB,Windows 10,2017,606.75
+HP,Notebook,15.6,AMD A10-Series A10-9620P 2.5GHz,6GB,Windows 10,2017,363.73
+Dell,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,395.06
+Acer,2-in-1 Convertible,11.6,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,223.14
+Lenovo,Notebook,15.6,Intel Core i3-7130U 2.7GHz,4GB,Windows 10,2017,402.8
+HP,Ultrabook,13.3,Intel Core m5-6Y54 1.1GHz,16GB,Windows 10,2016,1256.34
+Lenovo,Notebook,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1917.44
+Asus,Notebook,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,536.42
+Dell,Ultrabook,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,1022.34
+Dell,Notebook,15.6,Intel Core i5-7300U 2.6GHz,4GB,Windows 10,2017,613.15
+Fujitsu,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,472.49
+Lenovo,Notebook,15.6,Intel Pentium N4200 1.1GHz,4GB,Windows 10,2016,219.94
+Lenovo,Notebook,14,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,632.97
+HP,Workstation,17.3,Intel Core i5-7440HQ 2.8GHz,8GB,Windows 10,2017,1189.84
+HP,Notebook,14,Intel Pentium Quad Core N3710 1.6GHz,8GB,Windows 10,2016,248.71
+HP,Notebook,15.6,AMD A9-Series A9-9420 3GHz,6GB,Windows 10,2017,414.94
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,530.67
+Lenovo,Notebook,15.6,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,437.96
+Mediacom,Notebook,14,Intel Atom x5-Z8350 1.44GHz,4GB,Windows 10,2018,159.2
+Toshiba,Ultrabook,14,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,1192.41
+Lenovo,Gaming,17.3,Intel Core i7-6820HK 2.7GHz,32GB,Windows 10,2016,1702.62
+MSI,Gaming,17.3,Intel Core i7-7820HK 2.9GHz,16GB,Windows 10,2017,1744.81
+Dell,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Linux,2017,478.89
+Mediacom,Notebook,14,Intel Celeron N3450 1.1GHz,4GB,Windows 10,2016,248.71
+Dell,Notebook,15.6,Intel Core i5-7300U 2.6GHz,8GB,Windows 10,2017,644.81
+HP,Notebook,13.3,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,459.7
+Dell,Notebook,15.6,Intel Core i7-7600U 2.8GHz,16GB,Windows 10,2017,982.95
+Dell,Netbook,11.6,Intel Celeron N3060 1.6GHz,4GB,Chrome OS,2016,188.61
+MSI,Gaming,17.3,Intel Core i7-6820HK 2.7GHz,16GB,Windows 10,2016,1501.86
+HP,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,957.76
+Lenovo,Ultrabook,14,Intel Core i7-6600U 2.6GHz,12GB,Windows 10,2016,1069.65
+Lenovo,Notebook,15.6,Intel Core i7-8550U 1.8GHz,12GB,Windows 10,2018,389.37
+Asus,Gaming,17.3,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,1131.67
+Asus,2-in-1 Convertible,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,472.49
+Lenovo,Notebook,15.6,AMD A12-9720P 2.7GHz,12GB,Windows 10,2017,606.75
+Dell,2-in-1 Convertible,11.6,Intel Core m3-7Y30 1.0GHz,4GB,Windows 10,2016,385.53
+Samsung,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1086.27
+Lenovo,Notebook,17.3,Intel Core i3-6006U 2.0GHz,4GB,No OS,2016,338.22
+Lenovo,Notebook,15.6,Intel Core i3-6100U 2.3GHz,8GB,Windows 10,2016,293.47
+Lenovo,2-in-1 Convertible,13.3,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,1294.7
+Lenovo,Notebook,14,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,942.42
+Dell,2-in-1 Convertible,12.5,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,1067.73
+Dell,Workstation,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1127.19
+HP,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,779.38
+HP,Notebook,15.6,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,427.4
+Acer,Notebook,14,Intel Celeron N3450 1.1GHz,4GB,Windows 10,2016,210.35
+MSI,Gaming,17.3,Intel Core i7-6820HK 2.7GHz,16GB,Windows 10,2016,1405.95
+Dell,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Linux,2016,297.3
+MSI,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1469.89
+Toshiba,Notebook,15.6,Intel Core i7-6500U 2.5GHz,8GB,Windows 10,2016,894.46
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,6GB,Windows 10,2017,360.6
+Lenovo,2-in-1 Convertible,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,830.53
+Acer,Notebook,14,Intel Pentium Quad Core N3710 1.6GHz,4GB,Windows 10,2016,223.14
+Lenovo,Notebook,15.6,Intel Xeon E3-1535M v6 3.1GHz,32GB,Windows 10,2016,3132.22
+Dell,Gaming,15.6,Intel Core i7-6700HQ 2.6GHz,16GB,Windows 10,2016,562
+Dell,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Linux,2016,283.81
+Dell,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Linux,2016,229.53
+Dell,Notebook,15.6,Intel Core i5-7300U 2.6GHz,4GB,Linux,2017,555.6
+Asus,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,746.77
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Linux,2017,363.8
+HP,Ultrabook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,888.07
+MSI,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1449.98
+Acer,2-in-1 Convertible,11.6,Intel Celeron Quad Core N3160 1.6GHz,4GB,Chrome OS,2016,242.32
+HP,Notebook,14,Intel Core i5-7300U 2.6GHz,8GB,Windows 10,2017,718.64
+Lenovo,Notebook,14,Intel Core i5-6200U 2.3GHz,8GB,Windows 7,2016,936.66
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,496.14
+Fujitsu,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,510.85
+HP,Notebook,15.6,Intel Core i5-6200U 2.3GHz,4GB,Windows 7,2016,595.88
+Lenovo,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,574.78
+Mediacom,Notebook,14,Intel Atom x5-Z8350 1.44GHz,2GB,Windows 10,2018,152.81
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,No OS,2017,299.22
+Asus,2-in-1 Convertible,13.3,Intel Core i5-7200U 2.5GHz,6GB,Windows 10,2017,408.56
+Dell,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1163.64
+Asus,Ultrabook,14,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,1214.78
+Dell,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,945.61
+Lenovo,Notebook,15.6,Intel Core i5-8250U 1.6GHz,4GB,Windows 10,2018,530.03
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,370.19
+Asus,Notebook,15.6,Intel Celeron N3350 1.1GHz,8GB,Windows 10,2016,255.1
+Asus,Notebook,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,579.66
+Dell,Ultrabook,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,1194.96
+Lenovo,Notebook,14,Intel Celeron N3060 1.6GHz,2GB,Windows 10,2016,159.2
+Lenovo,2-in-1 Convertible,13.3,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,1123.62
+Dell,Notebook,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1533.82
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,709.05
+HP,Notebook,17,AMD A9-9420 3.0GHz,8GB,Windows 10,2017,333.04
+Lenovo,Ultrabook,14,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,1566.43
+Asus,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,No OS,2017,747.41
+Acer,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,287.71
+Lenovo,Notebook,14,Intel Celeron N3060 1.6GHz,4GB,Windows 10,2016,175.18
+Acer,Ultrabook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,587.57
+Razer,Gaming,14,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1661.7
+Toshiba,Notebook,13.3,Intel Core i5-6200U 2.3GHz,8GB,Windows 10,2016,775.54
+Lenovo,Ultrabook,12.5,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,1012.75
+Asus,Gaming,17.3,Intel Core i7-6820HK 2.7GHz,32GB,Windows 10,2016,1789.57
+Acer,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Linux,2017,453.31
+Dell,Ultrabook,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,927.01
+MSI,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,761.99
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,No OS,2016,233.3
+Toshiba,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,680.28
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,587.57
+Dell,Notebook,15.6,Intel Core i7-8550U 1.8GHz,16GB,Windows 10,2018,725.67
+Lenovo,Gaming,15.6,Intel Core i7-6700HQ 2.6GHz,8GB,Windows 10,2016,764.67
+Dell,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,32GB,Windows 10,2017,2012.3
+Dell,Notebook,14,Intel Core i5-6300U 2.4GHz,8GB,Windows 10,2016,785.77
+Lenovo,Notebook,15.6,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,267.89
+Lenovo,Notebook,15.6,Intel Core i5-6200U 2.3GHz,4GB,Windows 10,2016,342.06
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,6GB,Windows 10,2016,344.62
+MSI,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,950.58
+Toshiba,Notebook,15.6,Intel Core i3-6100U 2.3GHz,4GB,Windows 10,2016,318.4
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,610.59
+HP,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,476.32
+Toshiba,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,804.31
+Acer,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Linux,2016,263.42
+Microsoft,Ultrabook,13.5,Intel Core i7-7600U 2.8GHz,8GB,Windows 10 S,2017,1194.23
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,522.96
+Lenovo,2-in-1 Convertible,13.3,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,661.1
+Lenovo,Notebook,15.6,AMD E-Series E2-9000 2.2GHz,4GB,Windows 10,2016,223.14
+HP,2-in-1 Convertible,14,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,446.91
+MSI,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,827.33
+Asus,Ultrabook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,725.67
+HP,2-in-1 Convertible,11.6,Intel Celeron N3350 1.1GHz,8GB,Chrome OS,2016,316.48
+LG,Ultrabook,15.6,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,1469.89
+Acer,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,16GB,Windows 10,2017,830.53
+MSI,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,638.02
+Asus,Notebook,15.6,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,267.89
+Dell,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,16GB,Windows 10,2017,1311.33
+HP,Notebook,17.3,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,446.91
+Lenovo,2-in-1 Convertible,13.3,Intel Core i7-8550U 1.8GHz,8GB,Windows 10,2018,958.4
+Dell,Gaming,15.6,Intel Core i7-7820HK 2.9GHz,16GB,Windows 10,2017,1799
+HP,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,391.68
+Dell,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,348.88
+HP,Notebook,17.3,AMD A10-Series 9600P 2.4GHz,6GB,Windows 10,2017,363.8
+Lenovo,Notebook,15.6,Intel Celeron Dual Core 3855U 1.6GHz,4GB,Windows 10,2016,203.32
+Acer,Notebook,14,Intel Celeron Dual Core 3855U 1.6GHz,4GB,Chrome OS,2016,239.76
+Lenovo,Notebook,14,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,446.91
+HP,Workstation,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,1219.89
+Lenovo,2-in-1 Convertible,14,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,1655.94
+Toshiba,Notebook,13.3,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,622.1
+Acer,Netbook,11.6,Intel Celeron Dual Core N3050 1.6GHz,4GB,Windows 10,2016,171.99
+Lenovo,2-in-1 Convertible,14,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,1118.24
+Asus,2-in-1 Convertible,12.5,Intel Core M M3-6Y30 0.9GHz,4GB,Chrome OS,2016,427.73
+Toshiba,Ultrabook,13.3,Intel Core i7-6500U 2.5GHz,16GB,Windows 10,2016,1200.08
+HP,Notebook,15.6,Intel Core i7-7500U 2.7GHz,4GB,Windows 10,2017,440.52
+Dell,Gaming,15.6,Intel Core i5-7300HQ 2.5GHz,8GB,Windows 10,2017,523.64
+Lenovo,Notebook,15.6,AMD A9-9420 3.0GHz,4GB,Windows 10,2017,255.1
+Lenovo,Notebook,15.6,AMD A12-9720P 2.7GHz,8GB,Windows 10,2017,274.29
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,397.33
+Lenovo,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,No OS,2016,287.71
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,508.29
+Acer,2-in-1 Convertible,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,638.72
+Lenovo,Workstation,15.6,Intel Core i7-6500U 2.5GHz,16GB,Windows 7,2016,1186.01
+Lenovo,Notebook,14,Intel Core i5-6300HQ 2.3GHz,8GB,Windows 10,2016,761.48
+HP,Notebook,17.3,AMD A10-Series 9620P 2.5GHz,6GB,Windows 10,2017,418.79
+Lenovo,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,798.56
+Dell,Notebook,14,Intel Core i5-7440HQ 2.8GHz,8GB,Linux,2017,696.26
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Linux,2017,464.18
+Asus,Notebook,14,Intel Celeron N3350 1.1GHz,4GB,Windows 10,2016,190.53
+Dell,Notebook,15.6,Intel Core i5-7300U 2.6GHz,16GB,Windows 10,2017,912.15
+Lenovo,Notebook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,547.98
+Dell,Notebook,15.6,Intel Core i5-7300U 2.6GHz,8GB,Windows 10,2017,753.81
+Lenovo,Notebook,15.6,AMD A6-Series 7310 2GHz,4GB,Windows 10,2017,190.53
+Mediacom,Notebook,14,Intel Atom Z8350 1.92GHz,4GB,Windows 10,2018,169.43
+HP,Notebook,17.3,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,767.23
+Lenovo,Ultrabook,14,Intel Core i7-6500U 2.5GHz,8GB,Windows 10,2016,1078.37
+HP,2-in-1 Convertible,13.3,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,534.89
+Lenovo,Ultrabook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,958.4
+Dell,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,32GB,Windows 10,2017,2339.67
+MSI,Gaming,17.3,Intel Core i7-7700HQ 2.8GHz,8GB,Windows 10,2017,862.16
+Lenovo,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,No OS,2017,313.22
+Dell,Notebook,15.6,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,459.7
+Dell,2-in-1 Convertible,13.3,Intel Core i3-7100U 2.4GHz,4GB,Windows 10,2017,414.94
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,8GB,Linux,2017,376.92
+HP,Notebook,15.6,AMD A9-9420 3.0GHz,4GB,Windows 10,2017,312.65
+Acer,Gaming,17.3,Intel Core i7-6700HQ 2.6GHz,16GB,Windows 10,2016,1237.16
+Dell,Notebook,15.6,Intel Core i5-7200U 2.5GHz,12GB,Windows 10,2017,414.94
+HP,Notebook,15.6,AMD A9-Series A9-9420 3GHz,6GB,Windows 10,2017,415.58
+Acer,Notebook,15.6,Intel Core i5-7200U 2.5GHz,4GB,Windows 10,2017,357.4
+Lenovo,Notebook,13.3,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,613.79
+Lenovo,Notebook,15.6,Intel Core i7-7500U 2.7GHz,4GB,Windows 10,2017,498.06
+HP,Workstation,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1546.61
+Dell,2-in-1 Convertible,13.3,Intel Core i5-8250U 1.6GHz,8GB,Windows 10,2018,421.34
+MSI,Gaming,15.6,Intel Core i7-7700HQ 2.8GHz,16GB,Windows 10,2017,1339.13
+Acer,Notebook,15.6,Intel Core i3-6006U 2.0GHz,4GB,Windows 10,2016,262.65
+Dell,Notebook,15.6,Intel Core i7-7500U 2.7GHz,8GB,Windows 10,2017,771.71
+Dell,Notebook,15.6,Intel Core i3-6006U 2.0GHz,8GB,Windows 10,2016,425.17
+Toshiba,Notebook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,981.42
+Lenovo,2-in-1 Convertible,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,638.72
+Lenovo,Workstation,15.6,Intel Core i7-7600U 2.8GHz,16GB,Windows 10,2017,2109.25
+Acer,Notebook,14,Intel Celeron N3060 1.6GHz,2GB,Chrome OS,2016,210.99
+Samsung,Ultrabook,13.3,Intel Core i7-7500U 2.7GHz,16GB,Windows 10,2017,1054.3
+HP,Notebook,15.6,Intel Core i3-6006U 2.0GHz,8GB,Windows 10,2016,344.62
+Dell,Notebook,14,Intel Core i5-7200U 2.5GHz,8GB,Windows 10,2017,720.37
+HP,Workstation,17.3,Intel Xeon E3-1535M v5 2.9GHz,16GB,Windows 7,2016,2806.15
